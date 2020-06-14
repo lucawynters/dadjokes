@@ -71,9 +71,6 @@ export default {
         vyskaStromu: "10"
       });
     }
-  },
-  components: {
-    MujStrom: Strom
   }
 };
 </script>
